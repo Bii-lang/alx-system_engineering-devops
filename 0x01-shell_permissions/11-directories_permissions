@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rx alx-system_engineering-devops
+chmod ugo+X alx-system_engineering-devops
